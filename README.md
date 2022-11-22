@@ -3,7 +3,7 @@
 0x11. C - printf team project
 
 
-Group Project between Olaoye Emmanuel and Awokunle Oyinlola                                                                     
+Group Project between Alvine and Dennis                                                                    
 
                                                                                    
 
